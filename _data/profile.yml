@@ -6,9 +6,9 @@ positions:
   - '<span class="no-break"><img src="assets/images/badges/sdufe.png" alt="Shandong University of Finance and Economics" class="inline-badge"/></span> B.Eng., Shandong University of Finance and Economics (2026)'
 
 email: "keriyar@163.com"
-#gscholar: 
+gscholar: bj7eQ6sAAAAJ
 github: keriyar
-twitter: keriyar
+#twitter: keriyar
 # wechat_qrcode: assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -17,6 +17,14 @@ resume: assets/cv/Resume_Keriyar.pdf
 # linkedin: your-linked-in-id
 orcid: 0009-0003-0074-4907
 #xiaohongshu: 
+
+honorary_titles:
+- name: Kaggle Competition Expert
+  url: https://www.kaggle.com/keriyar
+  #icon_url: assets/images/icons/kaggle.png
+- name: 另一个荣誉
+  url: https://example.com
+  # icon_url 可省略，不显示图标
 
 short_bio: >-
   I am Xiyu Hu ,currently pursuing my Bachelor at <a href="https://www.sdufe.edu.cn/" target="_blank" rel="noopener">Shandong University of Finance and Economics</a>. My primary research interests lie in  Multimodal LLMs (MLLMs) , Large Model Miniaturization and Software Development. I love open source and sharing useful knowledge with everyone. 
