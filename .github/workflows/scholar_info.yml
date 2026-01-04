@@ -19,7 +19,7 @@ jobs:
         pip3 install -r requirements.txt
         python3 main.py
         git add "../assets/results/"
-        git config --global user.email "wrs6@88.com"
-        git config --global user.name "wangrongsheng"
+        git config --global user.email "keriyar@163.com"
+        git config --global user.name "Keriyar"
         git commit -m "* update `date '+%Y-%m-%d %H:%M:%S'`"
         git push
