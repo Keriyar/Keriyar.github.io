@@ -22,9 +22,6 @@ honorary_titles:
 - name: Kaggle Competition Expert
   url: https://www.kaggle.com/keriyar
   #icon_url: assets/images/icons/kaggle.png
-- name: 另一个荣誉
-  url: https://example.com
-  # icon_url 可省略，不显示图标
 
 short_bio: >-
   I am Xiyu Hu ,currently pursuing my Bachelor at <a href="https://www.sdufe.edu.cn/" target="_blank" rel="noopener">Shandong University of Finance and Economics</a>. My primary research interests lie in  Multimodal LLMs (MLLMs) , Large Model Miniaturization and Software Development. I love open source and sharing useful knowledge with everyone. 
@@ -33,6 +30,12 @@ show_portrait: true
 portrait_url: assets/images/photos/profile.png
 portrait_caption: >-
   我是Keriyar，欢迎访问我的主页~
+
+welcome_message:
+  title: "🤝 欢迎合作!"
+  content: >-
+    我非常高兴能与社区分享我的研究进展，如果您感兴趣，欢迎通过<a href="mailto:keriyar@163.com">📬电子邮件</a>与我联系！
+
 
 education:
 - name: Shandong University of Finance and Economics
