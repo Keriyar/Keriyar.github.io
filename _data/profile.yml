@@ -16,63 +16,60 @@ github: keriyar
 resume: assets/cv/Resume_Keriyar.pdf
 # linkedin: your-linked-in-id
 orcid: 0009-0003-0074-4907
-#xiaohongshu: 
+#xiaohongshu:
 
 honorary_titles:
-- name: Kaggle Competition Expert
-  url: https://www.kaggle.com/keriyar
-  #icon_url: assets/images/icons/kaggle.png
+  - name: Kaggle Competition Expert
+    url: https://www.kaggle.com/keriyar
+    #icon_url: assets/images/icons/kaggle.png
 
 short_bio: >-
-  I am Xiyu Hu ,currently pursuing my Bachelor at <a href="https://www.sdufe.edu.cn/" target="_blank" rel="noopener">Shandong University of Finance and Economics</a>. My primary research interests lie in  Multimodal LLMs (MLLMs) , Large Model Miniaturization and Software Development. I love open source and sharing useful knowledge with everyone. 
+  I am Xiyu Hu ,currently pursuing my Bachelor at <a href="https://www.sdufe.edu.cn/" target="_blank" rel="noopener">Shandong University of Finance and Economics</a>. My primary research interests lie in  Multimodal LLMs (MLLMs) , Large Model Miniaturization and Software Development. I love open source and sharing useful knowledge with everyone.
 
 show_portrait: true
 portrait_url: assets/images/photos/profile.png
 portrait_caption: >-
-  我是Keriyar，欢迎访问我的主页~
+  I am Keriyar,welcome to visit my homepage!~
 
 welcome_message:
-  title: "🤝 欢迎合作!"
+  title: "🤝 Welcome to cooperate!"
   content: >-
-    我非常高兴能与社区分享我的研究进展，如果您感兴趣，欢迎通过<a href="mailto:keriyar@163.com">📬电子邮件</a>与我联系！
-
+    # 我非常高兴能与社区分享我的研究进展，如果您感兴趣，欢迎通过<a href="mailto:keriyar@163.com">📬电子邮件</a>与我联系！
+    I am delighted to share my research progress with the community. If you are interested, feel free to contact me via <a href="mailto:keriyar@163.com">📬email!</a>
 
 education:
-- name: Shandong University of Finance and Economics
-  logo: assets/images/badges/sdufe.png
-  position: B.S. in Computer Science and Technology
-  date: Sep. 2022 - Jul. 2026
+  - name: Shandong University of Finance and Economics
+    logo: assets/images/badges/sdufe.png
+    position: B.S. in Computer Science and Technology
+    date: Sep. 2022 - Jul. 2026
 
 experience:
-- name: SDUFE
-  logo: assets/images/badges/sdufe.png
-  position: Research Assistant 
-  date: Sep. 2022 - Sep. 2025
-
-
+  - name: SDUFE
+    logo: assets/images/badges/sdufe.png
+    position: Research Assistant
+    date: Sep. 2022 - Sep. 2025
 
 awards:
-- name: 🥈Second Prize in the Blue Bridge Cup C/C++ Programming Competition for Universities.
-  date: 2025
-- name: 🥉Third Prize in the CCCC GPLT Team Competition
-  date: 2025
-- name: 🎫CCF CSP 220 points(Top 15%)
-  date: 2024  
-- name: 🥇First Prize in the University Selection Round of the ChuanZhi Cup Programming Challenge
-  date: 2023
-- name: 🥉Third Prize in Group B of the 2023 Second Tsinghua Society Cup College Student Algorithm Competition
-  date: 2023
-- name: 🥈Silver Medal of Kaggle RSNA Screening Mammography Cancer Detection
-  date: 2023
-- name: 🥉Third Prize in the National Finals of the College Students' Digital Skills Application Competition
-  date: 2023
-
+  - name: 🥈Second Prize in the Blue Bridge Cup C/C++ Programming Competition for Universities.
+    date: 2025
+  - name: 🥉Third Prize in the CCCC GPLT Team Competition
+    date: 2025
+  - name: 🎫CCF CSP 220 points(Top 15%)
+    date: 2024
+  - name: 🥇First Prize in the University Selection Round of the ChuanZhi Cup Programming Challenge
+    date: 2023
+  - name: 🥉Third Prize in Group B of the 2023 Second Tsinghua Society Cup College Student Algorithm Competition
+    date: 2023
+  - name: 🥈Silver Medal of Kaggle RSNA Screening Mammography Cancer Detection
+    date: 2023
+  - name: 🥉Third Prize in the National Finals of the College Students' Digital Skills Application Competition
+    date: 2023
 
 Social Practice:
-- name: Research on How Self-Driving Tourism Promotes the Construction of a Long-Term Mechanism for Rural Revitalization
-- name: Research on the Impact of Green Finance on the Yellow River Strategy
+  - name: Research on How Self-Driving Tourism Promotes the Construction of a Long-Term Mechanism for Rural Revitalization
+  - name: Research on the Impact of Green Finance on the Yellow River Strategy
 
-# Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
+# Feel free to replace the footer text if you would like to, but I will greatly appreciate it
 # if you keep the link to the template so that more people can benefit from it. Thanks!
 footer_text: >-
   Copyright © 2026 <a href="https://github.com/Keriyar" target="_blank">Keriyar</a>. All Rights Reserved.
