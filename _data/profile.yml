@@ -34,7 +34,6 @@ portrait_caption: >-
 welcome_message:
   title: "🤝 Welcome to cooperate!"
   content: >-
-    # 我非常高兴能与社区分享我的研究进展，如果您感兴趣，欢迎通过<a href="mailto:keriyar@163.com">📬电子邮件</a>与我联系！
     I am delighted to share my research progress with the community. If you are interested, feel free to contact me via <a href="mailto:keriyar@163.com">📬email!</a>
 
 education:
