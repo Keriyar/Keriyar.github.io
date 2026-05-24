@@ -12,7 +12,7 @@ github: keriyar
 # wechat_qrcode: assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# zhihu: wang-rong-sheng-74
+# zhihu:
 resume: assets/cv/Resume_Keriyar.pdf
 # linkedin: your-linked-in-id
 orcid: 0009-0003-0074-4907
@@ -64,9 +64,11 @@ awards:
   - name: 🥉Third Prize in the National Finals of the College Students' Digital Skills Application Competition
     date: 2023
 
-Social Practice:
-  - name: Research on How Self-Driving Tourism Promotes the Construction of a Long-Term Mechanism for Rural Revitalization
-  - name: Research on the Impact of Green Finance on the Yellow River Strategy
+projects:
+  - name: "Project Name"
+    description: "Brief description of the project"
+    url: "https://github.com/keriyar/project"
+    date: 2025
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it
 # if you keep the link to the template so that more people can benefit from it. Thanks!
