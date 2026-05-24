@@ -65,9 +65,17 @@ awards:
     date: 2023
 
 projects:
-  - name: "Project Name"
-    description: "Brief description of the project"
-    url: "https://github.com/keriyar/project"
+  - name: "Keriyar.github.io"
+    description: "Personal blog website"
+    url: "https://github.com/keriyar/Keriyar.github.io"
+    date: 2025
+  - name: "Nano Mail"
+    description: "A light-weight  Gmail notification client for Windows"
+    url: "https://github.com/keriyar/NanoMail"
+    date: 2025
+  - name: "NoteBook"
+    description: "Basic algorithm templates gallery"
+    url: "https://github.com/keriyar/NoteBook"
     date: 2025
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it
